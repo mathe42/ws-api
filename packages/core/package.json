@@ -1,0 +1,6 @@
+{
+  "name": "@ws-api/core",
+  "version": "0.0.0",
+  "main": "./mod.ts",
+  "types": "./mod.ts"
+}

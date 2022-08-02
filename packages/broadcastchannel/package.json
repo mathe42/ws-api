@@ -1,0 +1,10 @@
+{
+  "name": "@ws-api/bc",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@ws-api/core": "../core"
+  },
+  "peerDependencies": {
+    "@ws-api/core": ">=0.0.0"
+  }
+}

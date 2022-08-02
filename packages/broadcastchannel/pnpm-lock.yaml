@@ -1,0 +1,7 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@ws-api/core': ../core
+
+devDependencies:
+  '@ws-api/core': link:../core
