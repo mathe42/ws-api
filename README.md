@@ -1,6 +1,6 @@
 # Websocket API
 
-> This is a (partly) untested framework to create real-time api.
+> This is a (partly) untested WIP framework to create real-time api.
 
 ## Scope
 This is a framework for a (private) project so features are written with that use case in mind. We try to keep most of it as usecase indepoendent as we can (for example making multiple packages). 
