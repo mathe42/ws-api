@@ -7,7 +7,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: pnpm/action-setup@6e1964dde3397a825e79e4607ad57f3f7ca2c7cb
         with:
           version: 6.27.1
