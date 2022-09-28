@@ -2,7 +2,7 @@
   "name": "@ws-api/vue",
   "version": "0.0.0",
   "devDependencies": {
-    "vue": "^3.2.37",
+    "vue": "3.2.40",
     "@ws-api/core": "../core"
   },
   "peerDependencies": {
