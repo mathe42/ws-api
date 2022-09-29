@@ -1,3 +1,5 @@
+> NO LONGER MAINTAINED AS SURREALDB IS A GREAT CHOISE TO REPLACE THIS
+
 # Websocket API
 
 > This is a (partly) untested WIP framework to create real-time api.
